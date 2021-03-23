@@ -1,7 +1,7 @@
 ---
 title: Katie Hidden
 role: Data Science Graduate Student
-avatar_filename: img_7131-square.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
