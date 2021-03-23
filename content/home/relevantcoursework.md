@@ -31,14 +31,14 @@ item:
   organization: University of West Florida
   title: Statistical Modeling (STA 5176)
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url:
+  date_end: "2020-12-01"
+  date_start: "2020-08-01"
+  description: ""
+  organization: University of West Florida
+  organization_url: ""
+  title: Foundations: Programming Essentials (COP 5007) 
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
