@@ -26,7 +26,7 @@ organizations:
   - name: University of West Florida
 education:
   courses:
-    - course: M.S. Data Science
+    - course: "M.S. Data Science, Expected Graduation: 2022"
       institution: University of West Florida
       year: ""
     - course: B.A. Radio-Television
