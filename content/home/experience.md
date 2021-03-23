@@ -26,8 +26,8 @@ experience:
     company: Blondie Ras Productions
     company_url: ''
     location: Pembroke Pines, FL
-    date_start: '2015-08-01'
     date_end: '2018-06-01'
+    date_start: '2015-08-01'
     description: |2-
     
         * Edited American Public Television nationally syndicated Caribbean cooking and culture series Taste the Islands Season II, which aired in 46 states with 248 million potential viewers on PBS stations and Create TV.
