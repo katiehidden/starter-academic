@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: VIDEO EDITOR / EXECUTIVE ASSISTANT
+  - title: Video Editor / Executive Assistant
     company: Blondie Ras Productions
     company_url: ''
     location: Pembroke Pines, FL
@@ -36,11 +36,14 @@ experience:
         * Contacted community experts to arrange interviews for Island Origins Live (a weekly live Facebook talk show) and created Facebook events with custom graphics.
         * Assisted with editing five cookbooks, of which two have been published (50 Favorite Haitian Recipes: Taste the Islands Essentials (2017) and 50 Favorite Jamaican Recipes: Taste the Islands Essentials (2016)).
         
-  - title: Professor
-    company: University X
+  - title: Video Producer / Web Content Publisher
+    company: Jamaicans.com
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Pembroke Pines, FL
+    date_start: '2015-12-01'
+    date_end: '2018-05-01'
+    description: |2-
+    
+        * Created shareable videos for Jamaicans.com website and social media pages including cultural, cooking, and travel content, several of which have been viewed on Facebook over 50k times with 1k - 2k shares. 
+        * Formatted and published site content via WordPress.
 ---
