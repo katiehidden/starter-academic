@@ -11,13 +11,13 @@ social:
   - display:
       header: true
     link: https://www.linkedin.com/in/katiehidden/
-    icon: /#linkedin
-    icon_pack: ai
+    icon: linkedin
+    icon_pack: fab
   - display:
       header: true
     link: https://github.com/katiehidden
-    icon: <i class="wpbff wpbff-github"></i>
-    icon_pack: ai
+    icon: github
+    icon_pack: fab
 organizations:
   - name: University of West Florida
 education:
