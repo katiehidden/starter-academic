@@ -26,7 +26,10 @@ organizations:
   - name: University of West Florida
 education:
   courses:
-    - course: BA Radio-Television Production
+    - course: M.S. Data Science
+      institution: University of West Florida
+      year: ""
+    - course: B.A. Radio-Television
       institution: University of Central Florida
       year: 2014
 email: ""
