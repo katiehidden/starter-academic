@@ -25,18 +25,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2020-12-01"
-  date_start: "2020-08-01"
-  description: ""
-  organization: University of West Florida
-  title: Statistical Modeling (STA 5176)
-  url: ""
-- date_end: "2020-12-01"
-  date_start: "2020-08-01"
-  description: ""
-  organization: University of West Florida
-  title: Foundations: Programming Essentials (COP 5007)
-  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
