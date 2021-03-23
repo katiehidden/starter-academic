@@ -1,6 +1,6 @@
 ---
 title: Katie Hidden
-role: Data Science Graduate Student -- testing
+role: Data Science Graduate Student testing
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
