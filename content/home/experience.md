@@ -22,18 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: VIDEO EDITOR / EXECUTIVE ASSISTANT
+    company: Blondie Ras Productions
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Pembroke Pines, FL
+    date_start: '2015-08-01'
+    date_end: '2018-06-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
+        * Edited American Public Television nationally syndicated Caribbean cooking and culture series Taste the Islands Season II, which aired in 46 states with 248 million potential viewers on PBS stations and Create TV.
+        * Quadrupled Taste the Island’s Facebook following from under 2k to over 8k followers in just over one year.
+        * Wrote and scheduled posts for Taste the Islands and Island Origins Magazine’s social media accounts, created editorial calendar for Taste the Islands marketing, wrote the weekly email newsletter including creation of custom graphics, wrote weekly blog posts and edited recipes, and formatted and published web content via WordPress with optimized SEO. 
+        * Contacted community experts to arrange interviews for Island Origins Live (a weekly live Facebook talk show) and created Facebook events with custom graphics.
+        * Assisted with editing five cookbooks, of which two have been published (50 Favorite Haitian Recipes: Taste the Islands Essentials (2017) and 50 Favorite Jamaican Recipes: Taste the Islands Essentials (2016)).
         
   - title: Professor
     company: University X
