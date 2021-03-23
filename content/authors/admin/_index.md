@@ -8,9 +8,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: <i class="wpbff wpbff-linkedin"></i>
-    icon_pack: ai
+   - display:
+      header: true
     link: https://www.linkedin.com/in/katiehidden/
+    icon: <i class="wpbff wpbff-linkedin"></i>
+    icon_pack: ai
   - display:
       header: true
     link: https://github.com/katiehidden
