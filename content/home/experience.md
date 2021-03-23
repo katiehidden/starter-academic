@@ -46,4 +46,15 @@ experience:
     
         * Created shareable videos for Jamaicans.com website and social media pages including cultural, cooking, and travel content, several of which have been viewed on Facebook over 50k times with 1k - 2k shares. 
         * Formatted and published site content via WordPress.
+
+  - title: Web Content Publisher
+    company: South Florida Times
+    company_url: ''
+    location: Fort Lauderdale, FL
+    date_start: '2016-10-01'
+    date_end: '2018-05-01'
+    description: |2-
+    
+        * Formatted and published all new stories to sfltimes.com weekly via WordPress.
+        * Found relevant stories in AP Newsfinder and StatePoint and published to site weekly.
 ---
