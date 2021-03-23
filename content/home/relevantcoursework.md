@@ -57,5 +57,22 @@ item:
   organization_url: ""
   title: 'Foundations: Programming Essentials (COP 5007)'
   url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/YE7L5Q2UXQ3F
+  date_end: "2020-06-01"
+  date_start: "2020-04-01"
+  description: "Offered by University of Michigan"
+  organization: Coursera
+  organization_url: ""
+  title: 'Python Basics'
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/9PHJ4HKYSBSF
+  date_end: "2020-01-01"
+  date_start: "2019-11-01"
+  description: "Offered by Imperial College London"
+  organization: Coursera
+  organization_url: ""
+  title: 'Mathematics for Machine Learning: Linear Algebra'
+  url: ""
+  
 ---
   
