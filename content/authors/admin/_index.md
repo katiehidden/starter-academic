@@ -36,4 +36,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-katie-hidden-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Resume Katie Hidden 2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
