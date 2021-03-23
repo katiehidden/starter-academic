@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: /#contact
   - display:
-      header: true
+      header: false
     link: https://www.linkedin.com/in/katiehidden/
     icon_pack: ai
     icon: <i class="wpbff wpbff-linkedin"></i>
@@ -32,6 +32,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Resume Katie Hidden 2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume Katie Hidden 2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 Data science graduate student and experienced video editing and social media marketing professional seeking to leverage my technical, analytical, and collaborative skills as a data scientist. Recognized in previous roles for my ability to rise to meet diverse challenges, quick problem-solving abilities, and my optimism and energy.
