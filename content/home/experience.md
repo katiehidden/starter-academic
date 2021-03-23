@@ -57,4 +57,20 @@ experience:
     
         * Formatted and published all new stories to sfltimes.com weekly via WordPress.
         * Found relevant stories in AP Newsfinder and StatePoint and published to site weekly.
+
+  - title: Creative Services Intern
+    company: FOX 35 WOFL
+    company_url: ''
+    location: Orlando, FL
+    date_start: '2014-05-01'
+    date_end: '2014-08-01'
+    
+  - title: Video Production Intern
+    company: DNP Studios
+    company_url: ''
+    location: Orlando, FL
+    date_start: '2013-08-01'
+    date_end: '2013-12-01'
+
+
 ---
