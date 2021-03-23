@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: /#contact
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/katiehidden/
     icon_pack: ai
     icon: <i class="wpbff wpbff-linkedin"></i>
