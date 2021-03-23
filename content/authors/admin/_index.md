@@ -2,7 +2,11 @@
 title: Katie Hidden
 role: Data Science Graduate Student
 avatar_filename: avatar.jpg
-bio: ""
+bio: Data science graduate student and experienced video editing and social
+  media marketing professional seeking to leverage my technical, analytical, and
+  collaborative skills as a data scientist. Recognized in previous roles for my
+  ability to rise to meet diverse challenges, quick problem-solving abilities,
+  and my optimism and energy.
 interests: []
 social:
   - icon: envelope
