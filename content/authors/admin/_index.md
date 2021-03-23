@@ -11,7 +11,7 @@ social:
   - display:
       header: true
     link: https://www.linkedin.com/in/katiehidden/
-    icon: <i class="wpbff wpbff-linkedin"></i>
+    icon: /#linkedin
     icon_pack: ai
   - display:
       header: true
