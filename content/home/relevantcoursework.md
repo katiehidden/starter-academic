@@ -31,7 +31,7 @@ item:
   organization: University of West Florida
   title: Statistical Modeling (STA 5176)
   url: ""
-- certificate_url:
+- certificate_url: ""
   date_end: "2020-12-01"
   date_start: "2020-08-01"
   description: ""
