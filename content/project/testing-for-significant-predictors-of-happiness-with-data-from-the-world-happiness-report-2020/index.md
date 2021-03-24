@@ -6,7 +6,7 @@ summary: Testing whether GDP, social support, healthy life expectancy, and other
   variables significantly affect reported happiness using multiple regression.
 draft: false
 featured: false
-external_link: https://katiehidden.github.io/plastic-waste-proj/
+external_link: https://katiehidden.github.io/happiness-proj/
 image:
   filename: ""
   focal_point: Smart
