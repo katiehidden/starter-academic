@@ -73,6 +73,16 @@ item:
   organization_url: ""
   title: 'Mathematics for Machine Learning: Linear Algebra'
   url: ""
+- certificate_url:
+  date_end: "2020-04-01"
+  date_start: "2019-11-01"
+  description: ""
+  organization: Coursera (offered by University of Michigan)
+  organization_url: ""
+  title: 'Python for Everybody Specialiation (audited courses)'
+  url: ""
+  
+  
   
 ---
   
