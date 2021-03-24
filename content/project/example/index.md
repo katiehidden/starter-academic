@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.linkedin.com/in/katiehidden/"
+external_link: "https://katiehidden.github.io/plastic-waste-proj/"
 
 image:
   caption: Photo by rawpixel on Unsplash
