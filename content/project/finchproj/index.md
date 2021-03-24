@@ -1,6 +1,6 @@
 ---
 title: Darwin’s Finches: Comparing Beak Depth by Species Type and Year Group
-summary: - using one-way and two-way ANOVA to compare two species of Galápagos finches
+summary: Using one-way and two-way ANOVA to compare two species of Galápagos finches
 date: "2021-03-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
