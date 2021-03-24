@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: \- using linear regression to determine if coastal population is a
+summary: Using linear regression to determine if coastal population is a
   significant predictor of weight of mismanaged plastic waste.
 url_video: ""
 date: 2021-03-23T00:00:00.000Z
