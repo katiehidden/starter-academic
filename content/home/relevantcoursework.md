@@ -79,7 +79,7 @@ item:
   description: ""
   organization: Coursera (offered by University of Michigan)
   organization_url: ""
-  title: 'Python for Everybody Specialiation (audited courses)'
+  title: 'Python for Everybody Specialization (audited courses)'
   url: ""
   
   
