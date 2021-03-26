@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: katiehidden@gmail.com
+    link: mailto:katiehidden@gmail.com
   - display:
       header: true
     link: https://www.linkedin.com/in/katiehidden/
