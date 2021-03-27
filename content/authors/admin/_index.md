@@ -34,4 +34,4 @@ highlight_name: false
 ---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume Katie Hidden 2021 revised.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-Data science graduate student and experienced video editing and social media marketing professional seeking to leverage my technical, analytical, and collaborative skills as a data scientist. Recognized in previous roles for my ability to rise to meet diverse challenges, quick problem-solving abilities, optimism, and energy.
+I’m a data science graduate student and experienced video editing and social media marketing professional seeking to leverage my technical, analytical, and collaborative skills as a data scientist. I’ve been recognized in previous roles for my ability to rise to meet diverse challenges, quick problem-solving abilities, optimism, and energy.
