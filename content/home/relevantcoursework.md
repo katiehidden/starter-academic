@@ -27,6 +27,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2021-05-01"
+  description: ""
+  organization: University of West Florida
+  organization_url: ""
+  title: 'Data Mining (CAP 5771)'
+  url: ""
+- certificate_url:
+  date_end: "2021-05-01"
   date_start: "2021-01-01"
   description: ""
   organization: University of West Florida
