@@ -26,7 +26,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url:
-  date_end: ""
+  date_end: "2021-08-01"
+  date_start: "2021-06-01"
+  description: ""
+  organization: University of West Florida
+  organization_url: ""
+  title: 'Multivariate Methods (STA 6707)'
+  url: ""
+- certificate_url:
+  date_end: "2021-07-01"
   date_start: "2021-05-01"
   description: ""
   organization: University of West Florida
